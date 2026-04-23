@@ -12,4 +12,4 @@ In a brief summary, there are four proposed changes/additions:
 
 Personal preference would be #2 and #4 are definites to be implemented. #1 is a design choice and #3 is not necessary but nice to have.
 
-NOTE: please excuse the Kit Lang syntax if I typed anything wrong but the core concept is sound. I used Kimi K2.6 to help with this and I haven't had a lot of time to thoroughly double check everything so this is why I'm writing this brief summary as if my document is garbage one can simply look-up the concepts independently.
+NOTE: please excuse the Kit Lang syntax if I typed anything wrong but the core concept is sound. I used Kimi K2.6 to help with this and I haven't had a lot of time to thoroughly double check everything so me writing this brief summary one can simply look-up the concepts independently if they don't agree with the doc.
